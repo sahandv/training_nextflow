@@ -1,0 +1,16 @@
+
+.nextflow/
+
+scripts/__pycache__/
+
+work/
+
+runInfo/
+
+corr_data/
+
+data/
+
+*.log.*
+
+*.log
